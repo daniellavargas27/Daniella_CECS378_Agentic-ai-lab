@@ -13,5 +13,5 @@ def main():
     except Exception as e:
         print(f"Error: {e}\nCheck if Ollama is running and the model is pulled.")
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
