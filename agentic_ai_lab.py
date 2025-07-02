@@ -1,3 +1,5 @@
+# test offline LLM
+
 import ollama
 
 def main():
